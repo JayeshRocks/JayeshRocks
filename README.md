@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi, i’m Jayesh<br><br>🎓 Class 12 ISC Student (High School Senior '26)<br><br>🔍 Always curious about how things work<br><br>🧩 Like taking on small projects and learning new stuff<br><br>📚 Trying to figure out what i want to build next
+👋 Hi, i’m Jayesh<br><br>🎓 Fresher at Manipal Institute of Technology, Bengaluru - CSE Core '30<br><br>🔍 Always curious about how things work<br><br>🧩 Like taking on small projects and learning new stuff<br><br>📚 Trying to figure out what i want to build next
 
 
 ## 🌐 Socials:
